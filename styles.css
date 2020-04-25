@@ -1,0 +1,31 @@
+body
+{
+    background-color: blueviolet;
+    text-align: center;
+}
+p{
+    font-family: "Consolas";
+    font-size: 1.5rem;
+    padding-bottom: 30px;
+}
+.container
+{
+    font-family: "Lobster";
+    font-size: 4rem;
+    color: red;
+}
+.dice
+{
+    display: inline-block;
+    margin: 20px 50px 20px;
+}
+.foot
+{
+    padding: 5% 5%;
+    font-family: monospace;
+    font-size: 2rem;
+}
+.img
+{
+    width: 20%;
+}
